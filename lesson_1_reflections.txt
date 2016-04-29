@@ -50,4 +50,3 @@
    I want to try it with my next application project to see how different is working using this tool
    compared to working without any version control.
    
-   
