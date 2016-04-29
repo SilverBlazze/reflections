@@ -29,3 +29,8 @@
    It gives you flexibility to try new feature without affecting the main branch of
    develpment and leaves a history of those try outs.
    
+5) How do the diagrams help you visualize the branch structure?
+   
+   Because you are able to see in a graphical manner the state of the master branch and any
+   of its sub-branches and where they have originated.
+   
