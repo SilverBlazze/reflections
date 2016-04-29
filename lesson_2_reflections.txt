@@ -17,3 +17,15 @@
    By adding just the files whose changes are related and make a commit separately from
    the others. This way, even though several changes may have occurred, you have the control
    over which ones are part of the same commit.
+   
+4) What are some situations when branches would be helpful in keeping your history organized?
+   How would branches help?
+   
+   When adding experimental changes to the project is helpful to use branches because that
+   way changes do no affect the official version of the program, and only when you're
+   sure that you want those changes is when they're going to be merged with the master
+   branch.
+   
+   It gives you flexibility to try new feature without affecting the main branch of
+   develpment and leaves a history of those try outs.
+   
