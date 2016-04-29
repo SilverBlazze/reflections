@@ -9,7 +9,7 @@
    
    - Bugs introduced after changes in source files are easier to spot and correct.
    - You can implement new ideas or functionality within you app knowing that if you don't like it
-     you can easy revert those changes.
+     you can easily revert those changes.
 	 
 3) What do you think are the pros and cons of manually choosing when to create a commit, like you
    do in Git, vs having versions automatically saved, like Google Docs does?
@@ -29,7 +29,7 @@
    Because they have a different focus regarding the type of files they track. In the case of Git,
    the files that are being tracked very ofter depends on the contents of other files, so it makes
    sense to track them paralelly, in the case of Google Docs, the contents of each file are
-   independe from the content of other files, so an individual tracking makes more sense.
+   independent from the content of other files, so an individual tracking makes more sense.
    
 5) How can you use the commands git log and git diff to view the history of files?
 
