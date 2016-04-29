@@ -11,3 +11,9 @@
    commited, thus not added to the repository yet. 
    It's like a temporal storage location that gives you more control over how the commits
    are going to be performed. It allows you to perform certain operations before commiting.
+   
+3) How can you use the staging area to make sure you have one commit per logical change?
+   
+   By adding just the files whose changes are related and make a commit separately from
+   the others. This way, even though several changes may have occurred, you have the control
+   over which ones are part of the same commit.
