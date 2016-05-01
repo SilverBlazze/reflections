@@ -31,13 +31,13 @@
    
 5) How do the diagrams help you visualize the branch structure?
    
-   Because you are able to see in a graphical manner the state of the master branch and any
-   of its sub-branches and where they have originated.
+   By being able to see in a graphical manner the state of the master branch and any
+   of its sub-branches.
    
 6) What is the result of merging two branches together? Why do we represent it in the
    diagram the way we do?
    
-   When two branches are merged the changes done by each one are combined, and its represented
+   When two branches are merged the changes done by each of them are combined, and its represented
    in the diagram that way because the resulting commit is a combination of the 2 parent commits.
 
 7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
