@@ -26,8 +26,8 @@
    sure that you want those changes is when they're going to be merged with the master
    branch.
    
-   It gives you flexibility to try new feature without affecting the main branch of
-   develpment and leaves a history of those try outs.
+   It gives you flexibility to try new features without affecting the main branch of
+   development and leaves a history of those try outs.
    
 5) How do the diagrams help you visualize the branch structure?
    
