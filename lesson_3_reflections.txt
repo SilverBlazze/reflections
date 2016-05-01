@@ -7,3 +7,18 @@
    stay up-to-date with your remote repository?
    
    To have more control over when to merge the changes done in the remote repository.
+   
+3) Describe the differences between forks, clones, and branches. When would you use one
+   instead of another?
+
+   With fork you clone a repository directly on Github, without having to first make a 
+   local copy. A reference to the forked repository is saved. 
+   This way you and other people can work in a project without having to modify the
+   original.
+   
+   With clone you are downloading a repository to your computer, useful to allow several
+   people to work in the same project.
+   
+   With branching you are creating a separte path of development so that any changes
+   won't affect previous work in the master branch, it is useful to try new features or
+   attemp to solve bugs.
