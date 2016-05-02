@@ -47,3 +47,13 @@
    making experimental changes by working in separate branches, without affecting the
    work of others.
    
+6) When would you want to make changes in a separate branch rather than directly in
+   master? What benefits does each approach have?
+   
+   Working in the master branch has the benefit of a less complicated workflow, but you
+   also risk breaking code or missing updates from other people working on it.
+   
+   If you use a separate branch to work, you can try experimental features or debug,
+   without worrying about breaking any code. And when changes are ready to be 
+   incorporated into the master branch, other people can be notified allowing them to 
+   review your changes and merging only when everything is alright.
