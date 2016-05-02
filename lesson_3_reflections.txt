@@ -22,3 +22,9 @@
    With branching you are creating a separte path of development so that any changes
    won't affect previous work in the master branch, it is useful to try new features or
    attemp to solve bugs.
+   
+4) What is the benefit of having a copy of the last known state of the remote stored
+   locally?
+   
+   Being able to record how many new commits have been made since the last time we fetched
+   data.
