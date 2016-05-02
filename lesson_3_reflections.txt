@@ -28,3 +28,22 @@
    
    Being able to record how many new commits have been made since the last time we fetched
    data.
+   
+5) How would you collaborate without using Git or GitHub? What would be easier and what
+   would be harder?
+   
+   Storing the project files in a place that can be accessed by the team, and every time
+   a change was made, a file would be edited describing the change and which files got
+   updated.
+   
+   It will be more work because you will have to manually update the files, but before
+   doing so, make sure that other people haven't updated them in the meantime.
+   This would cause people to spend more time talking to each other before updating any
+   file and would impact efficiency.
+   
+   Git facilitates the process of working together, making it much easier to update files
+   and knowing when changes have been made, plus the added beneffit of keeping a history
+   of the project which lets you go back in time if necessary, and the possibility of
+   making experimental changes by working in separate branches, without affecting the
+   work of others.
+   
